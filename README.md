@@ -1,6 +1,6 @@
 # Juego Barra
 
-![Menú principal](imagenes/BarraJuegoCaptura.png)
+![Menú principal](Imagenes/BarraJuegoCaptura.png)
 
 ## Descripción
 
