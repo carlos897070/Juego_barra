@@ -13,8 +13,6 @@ El juego incluye un sistema de puntajes y niveles, aumentando progresivamente la
 ## Integrantes
 
 - Carlos Alberto Iturri
-- Nombre del compañero
-- Nombre del compañero
 
 ## Tecnologías utilizadas
 
