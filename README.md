@@ -1,5 +1,7 @@
 # Juego Barra
 
+![Menú principal](imagenes/BarraJuegoCaptura.png)
+
 ## Descripción
 
 Juego desarrollado en Java como trabajo práctico de la materia Programación II.
